@@ -1,0 +1,1459 @@
+/* MEDIA QUERIES */
+
+
+@media only screen and (min-width: 100px) and (max-width: 1800px) {
+    .why-chapter-content {
+      
+        padding-bottom: 3rem;
+        
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 1600px) {
+    .testimonail-main-slider:after {
+
+        top: 225px;
+
+    }
+    section.why-chapter {
+        background-image: url(../images/why-c-2.png);
+       height: 500px;
+    }
+    .email-input input {
+     
+        width: 110%;
+    }
+    .contact-img img {
+        margin-top: -39px;
+
+        width: 140%;
+    }
+    .pre__order_img img {
+        width: 100%;
+        height: 710px;
+        object-fit: cover;
+        object-position: 80%;
+    }
+
+    .testimional-counter h4,
+    .testimional-counter h4 span {
+        font-size: 32px;
+
+    }
+
+    .testimioal-slider-items {
+
+        padding-top: 2rem;
+
+        padding-left: 2rem;
+
+        padding-right: 2rem;
+
+        padding-bottom: 2rem;
+    }
+
+    .testimioal-slider-items:before {
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 40px;
+        height: 50px;
+        left: 10px;
+
+        top: 10px;
+
+    }
+
+    section.pre-order .container {
+        max-width: 1140px !important;
+    }
+    .learn-more-content {
+        padding: 10px 4rem;
+
+    }
+
+    .learn-more-content h3 {
+        font-size: 22px;
+
+    }
+
+    .learn-more-content p {
+        font-size: 15px;
+
+    }
+
+    .pre-order:after {
+
+        width: 315px;
+        height: 220px;
+
+
+        right: -6%;
+        bottom: 0;
+
+    }
+
+    .pre-order:before {
+
+        width: 328px;
+        height: 220px;
+
+        left: -40px;
+
+    }
+
+    .content h3 {
+        font-size: 55px;
+
+    }
+
+    .bg-banner-blue {
+        margin-top: -10rem;
+
+    }
+
+    .main-banner {
+        position: relative;
+
+        height: 750px;
+
+    }
+
+    .main-banner-img:before {
+
+        width: 540px;
+
+        height: 530px;
+
+        top: 130px;
+
+        left: -48px;
+    }
+
+    .bottom-row .navigation-list li a {
+
+margin-right: 10px;
+
+}
+
+    .main-banner-content h6 {
+
+        line-height: 1.5;
+
+    }
+
+    .content h2 {
+        font-size: 48px;
+
+    }
+
+    .content h4 {
+        font-size: 39px;
+        font-weight: 400;
+    }
+
+    .contact-form-main .col-xl-4 {
+        width: 41%;
+    }
+
+    .main-banner-img {
+        position: relative;
+        top: 71px;
+        right: -7%;
+        z-index: 5;
+    }
+
+    section.children-chapter {
+      
+        background-size: cover;
+    }
+
+
+
+
+
+}
+
+@media only screen and (min-width: 100px) and (max-width: 1399px) {
+    .testimonail-main-slider:after {
+        top: 225px;
+    }
+    section.why-chapter {
+        background-image: url(../images/why-c-2.png);
+        height: 440px;
+    }
+    .why-chapter-content {
+
+padding-bottom: 1rem;
+
+/* align-items: center; */
+}
+
+
+
+    .contact-img img {
+        margin-top: -39px;
+
+        width: 140%;
+    }
+    .pre__order_img img {
+        width: 100%;
+        height: 710px;
+        object-fit: cover;
+        object-position: 80%;
+    }
+
+    .testimional-counter h4,
+    .testimional-counter h4 span {
+        font-size: 32px;
+
+    }
+
+    .testimioal-slider-items {
+
+        padding-top: 2rem;
+
+        padding-left: 2rem;
+
+        padding-right: 2rem;
+
+        padding-bottom: 2rem;
+    }
+
+    .testimioal-slider-items:before {
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 40px;
+        height: 50px;
+        left: 10px;
+
+        top: 10px;
+
+    }
+
+    section.pre-order .container {
+        max-width: 1140px !important;
+    }
+    .learn-more-content {
+        padding: 10px 4rem;
+
+    }
+
+    .learn-more-content h3 {
+        font-size: 22px;
+
+    }
+
+    .learn-more-content p {
+        font-size: 15px;
+
+    }
+
+    .pre-order:after {
+
+        width: 315px;
+        height: 220px;
+
+
+        right: -6%;
+        bottom: 0;
+
+    }
+
+    .pre-order:before {
+
+        width: 328px;
+        height: 220px;
+
+        left: -40px;
+
+    }
+
+    .content h3 {
+        font-size: 55px;
+
+    }
+
+    .bg-banner-blue {
+        margin-top: -10rem;
+
+    }
+
+    .main-banner {
+        position: relative;
+
+        height: 750px;
+
+    }
+
+    .main-banner-img:before {
+
+        width: 540px;
+
+        height: 530px;
+
+        top: 130px;
+
+        left: -48px;
+    }
+
+    .bottom-row .navigation-list li a {
+
+margin-right: 10px;
+
+}
+
+    .main-banner-content h6 {
+
+        line-height: 1.5;
+
+    }
+
+    .content h2 {
+        font-size: 48px;
+
+    }
+
+    .content h4 {
+        font-size: 39px;
+        font-weight: 400;
+    }
+
+    .contact-form-main .col-xl-4 {
+        width: 41%;
+    }
+
+    .main-banner-img {
+        position: relative;
+        top: 71px;
+        right: -7%;
+        z-index: 5;
+    }
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 100px) and (max-width: 1200px) {
+
+    section.why-chapter {
+        background-image: url(../images/why-c-4.png);
+        height: 340px;
+    }
+    .why-chapter-content p {
+        font-size: 16px;
+       
+    }
+    .why-chapter-content h3 {
+        font-size: 40px;
+       
+    }
+    section.explore-chantal .col {
+        flex: 1 0 24%;
+    }
+    section.explore-chantal .content h3 {
+        text-align: center;
+    }
+    .header-bottom .container {
+        max-width: 1040px;
+    }
+    .image-gallery img {
+        width: 100%;
+    }
+    .chs-bf:after {
+        left: auto !important;
+        top: auto !important;
+    }
+    .contact-email .learn-more-content {
+        padding: 2rem 4rem;
+     
+    }
+    .email-input input {
+    
+        padding: 10px 20px;
+       
+        width: 100%;
+    }
+    .contact {
+       
+        font-size: 28px;
+     
+    }
+
+    .email-input h4 {
+        font-size: 23px;
+        font-family: "Montserrat";
+        color: #fff;
+    }
+    .services-boxs-imgs img {
+      
+        height: 224px;
+     
+    }
+    .contact-img img {
+        margin-top: 25px;
+        width: 380px;
+    }
+
+
+    .bg-banner-blue {
+        margin-top: -10rem;
+
+    }
+
+    .contact-form h4 {
+        font-size: 38px;
+
+    }
+
+    
+    .counter-timer {
+
+        padding: 0rem 3rem;
+    }
+
+
+    section.pre-order .container {
+        max-width: 960px !important;
+    }
+
+
+    .learn-more-content {
+        padding: 10px 4rem;
+
+    }
+
+    .learn-more-content h3 {
+        font-size: 22px;
+
+    }
+
+    .learn-more-content p {
+        font-size: 15px;
+
+    }
+
+    .main-banner-img:before {
+
+        width: 470px;
+
+        height: 490px;
+
+        top: 100px;
+
+        left: -53px;
+
+    }
+
+
+
+    .services-box {
+        padding: 2rem 0;
+    }
+
+    .main-banner {
+
+        height: 720px;
+
+    }
+
+    .content h3 {
+        font-size: 53px;
+
+    }
+
+    .main-banner-img {
+
+        top: 120px;
+
+        right: -10%;
+    }
+
+
+    .content p {
+
+        font-size: 17px;
+
+    }
+
+    .slick-dots {
+        bottom: 23px;
+    }
+
+
+
+    .bottom-row {
+
+        margin-left: 5px;
+    }
+
+    .bottom-row .navigation-list li a {
+        margin-right: 5px;
+        font-size: 15px;
+    }
+
+    .content h2 {
+        font-size: 46.5px;
+    }
+
+
+    .main-banner-content:after {
+        width: 102px;
+        height: 66px;
+        background-size: contain;
+        left: 56%;
+        top: 12%;
+        background-repeat: no-repeat;
+    }
+
+
+    .content h4 {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    .about-img-content {
+        top: 1rem;
+        padding: 1.5rem 3rem;
+    }
+
+    .about-us::after {
+        bottom: -32%;
+    }
+
+    .about-us:before {
+
+        bottom: -32%;
+    }
+
+    .services-boxs {
+        margin-right: 14px;
+    }
+
+    .services-imges-content {
+        left: 10px;
+    }
+
+
+
+    .services-sec:after {
+        width: 202px;
+        bottom: 6%;
+
+    }
+
+
+
+
+    .footer-menu li {
+        color: #fff;
+        font-weight: 400;
+        text-align: center;
+        padding: 5px 0px;
+        line-height: 2;
+        /* border-bottom: 1px solid #ffffff4a; */
+        margin: 0 auto;
+    }
+
+    .footer-logo h3 {
+
+        font-size: 28px;
+    }
+
+    .rite_book_box {
+
+        height: 200px;
+
+    }
+
+}
+
+@media only screen and (min-width: 100px) and (max-width: 1023px) {
+    .main-banner:after {
+    display: none;
+}
+.footer-menu {
+    display: flex;
+   
+    flex-wrap: wrap;
+    
+}
+.footer-menu li a {
+   
+    padding: 20px;
+}
+    .content h3 {
+        font-size: 44px;
+    }
+
+    .services-boxs-imgs img {
+        height: 315px;
+    }
+    .bg-banner-blue {
+        margin-top: -7rem;
+    }
+    .slider-content {
+
+        top: 60%;
+
+    }
+    .header-logo {
+        display: flex;
+        align-items: center;
+        gap: 5rem;
+        justify-content: space-between;
+    }
+    .main-banner {
+        height: 540px;
+    }
+
+    .about-img img {
+        width: 80%;
+        margin: 34px auto 0px;
+        display: block;
+    }
+    section.children-chapter {
+        background-image: url(../images/why-c1.png);
+        height: 528px;
+        display: flex;
+        align-items: end;
+        background-size: cover;
+        background-position: 30%;
+    }
+
+
+}
+@media only screen and (min-width: 100px) and (max-width: 992px) {
+    .why-chapter-content {
+        
+        padding-bottom: 0;
+      
+    }
+    .counter___main_sec .counter {
+        font-size: 150px;
+       
+    }
+    section#News-letter {
+        padding: 2rem;
+        text-align: center;
+    }
+    .why-chapter-content h3 {
+        font-size: 35px;
+       
+    }
+    .slider-nav__1 {
+        height: 141px;
+    }
+    .slider-nav__1 .slick-slide.slick-cloned {
+        padding-right: 20px;
+    }
+    .slide-container img {
+        width: 100%;
+        height: 460px;
+        object-fit: cover;
+        padding: 2rem;
+    }
+    .header-bottom .container {
+        max-width: 850px;
+    }
+    .header-logo img {
+        width: 29%;
+    }
+    section.log__ing {
+        padding: 10rem 0;
+    }
+    section.main-banner.aboutus p {
+        color: #fff;
+    }
+    .pre-order-title h3 {
+        font-size: 24px;
+        text-align: center;
+        color: #3b3b3b;
+        font-weight: 400;
+    }
+    .children-chapter .row {
+        justify-content: center !important;
+    }
+    section.children-chapter {
+       
+        align-items: center;
+    }
+   
+   
+    .content h3 {
+        font-size: 36px;
+    }
+
+    .abouts-after-slider {
+        padding-bottom: 1rem;
+        margin-top: 0rem;
+    }
+    
+    .bg-ab-1 ,.bg-ab-2  {
+       
+        height: auto;
+    }
+    section.why-chapter {
+      
+height: unset;
+      
+background: linear-gradient(45deg, #358fdc, #004f9d);
+      
+/* margin-top: -15rem; */
+      
+padding: 60px;
+    }
+    .contact-email .learn-more-content {
+        padding: 2rem 27px;
+    }
+    section.explore-chantal {
+        padding: 3rem;
+    }
+    .contact-img img {
+     
+        display: none;
+    }
+    .contact-form {
+        margin-left: 0rem;
+      
+    }
+    .chantel-content p {
+        padding: 10px 0;
+    }
+    .explore-chantal-box {
+        padding: 1rem;
+       
+    }
+    .bg-banner-blue {
+        margin-top: 10px;
+    }
+    .learn-more-content {
+        padding: 10px 3rem;
+    }
+
+    section.about-us .row {
+        flex-direction: column-reverse;
+    }
+    .container, .container-md, .container-sm {
+        max-width: 940px;
+    }
+    .learn-more-content p {
+        font-size: 13px;
+    }
+    .learn-more-content h3 {
+        font-size: 19px;
+    }
+    .primary-btn {
+      
+        font-size: 14px;
+      
+    }
+    .blog-main-box {
+    
+        padding-bottom: 3rem;
+    }
+    .blog-content {
+    
+width: 100%;
+    
+box-shadow: unset;
+    
+padding: 12px 10px;
+    }
+    .blog-content h4 {
+        font-size: 24px;
+      
+        line-height: 16px;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 767px) {
+    .login__bf:before , .login__af:before {
+        display: none;
+    }
+    .counter___main_sec p {
+        font-size: 18px;
+     
+    }
+    .counter___main_sec .counter {
+        font-size: 100px;
+       
+    }
+    .counter___main_sec h4 {
+     
+        font-size: 55px;
+    }
+    section.explore-chantal .col {
+        flex: 1 0 30%;
+    }
+    section.blog-main {
+        position: relative;
+        z-index: 1;
+        margin-top: 3rem;
+    }
+    section#News-letter {
+        padding: 1rem;
+    }
+  .slider-nav__1 .slick-slide.slick-cloned {
+        padding-right: 20px;
+        margin-right: -10px;
+    }
+    .slide-btn img {
+        height: 119px;
+    }
+
+    .login {
+     
+        padding:0px 50px;
+    }
+
+    .counter-timer {
+        padding: 0rem 3rem;
+        margin-bottom: 3rem;
+    }
+    .pre-order-title h3 {
+        font-size: 30px;
+       
+    }
+.chs-bf:before {top: -80px !important;left: auto !important;right: 40%;}
+    .pre-order:before ,.pre-order:after {
+        display: none;
+    }
+    .pre-order {
+        padding: 1rem 0 1rem 0rem;
+      margin: 0;
+    }
+    
+    .course {
+       
+        padding-bottom: 0;
+    }
+    .testimioal-slider-items {
+        display: unset !important;
+    }
+    
+    .testimional-section {
+        padding: 20px;
+    }
+    .counter-time h3 span {
+      
+        font-size: 20px;
+    
+    }
+    .counter-time h3 {
+        font-size: 80px;
+       
+    }
+
+    .contact-email .learn-more-content {
+        text-align: center;
+        border-right: 0;
+    }
+    .contact-email {
+        bottom: -51px;
+    }
+    .aboutus {
+
+        height: 950px;
+        background-size: cover;
+        background-repeat: no-repeat;
+      
+        background-position: 70%;
+        background-color: #00000052;
+        width: 100%;
+        background-blend-mode: color;
+    }
+    .main-banner {
+        height: 650px;
+    }
+    .blog-main-box {
+        padding-bottom: 3rem;
+        margin-bottom: 2rem;
+    }
+    .contact-form-main {
+       
+        padding-top: 2rem;
+        text-align: center;
+    }
+
+    .service__box {
+        box-shadow: none;
+        padding: 1rem 0rem;
+        background: none;
+    }
+
+    .learn-more-sec .row {
+        flex-flow: column-reverse;
+    }
+    
+    .learn-img img {
+        width: 89%;
+        margin: 18px auto 0;
+        display: block;
+    }
+    .explore-chantal-box {
+     
+        margin-bottom: 2rem;
+      
+    }
+
+
+    .write_book_main .col {
+        flex: 1 0 30%;
+    }
+
+    .header-logo img {
+        width: 30%;
+    }
+
+    .header-content-top {
+        padding-left: 2rem;
+    }
+
+    .header-content-top h5 a {
+        font-size: 14px;
+    }
+
+    .header-bottom {
+        padding: 1rem;
+    }
+
+    .header-logo {
+        display: flex;
+        align-items: center;
+        gap: 5rem;
+        justify-content: space-between;
+    }
+
+    .content h2 {
+        font-size: 35px;
+
+    }
+
+    .primary-btn {
+
+        padding: 5px 20px;
+
+        font-size: 14px;
+
+    }
+
+
+
+    .main-banner-content {
+
+        padding-left: 1rem;
+    }
+
+    .main-banner-content:after {
+
+        left: 66%;
+
+        width: 80px;
+
+        top: 5%;
+
+        filter: brightness(5.5);
+
+        height: 67px;
+
+        background-size: contain;
+
+        background-repeat: no-repeat;
+    }
+
+    .content h2 span {
+
+        font-size: 40px;
+    }
+
+    .main-banner-content h6 span {
+        font-size: 80px;
+
+    }
+
+    .main-banner-content:before {
+        position: absolute;
+
+        left: -1%;
+        top: -10%;
+
+    }
+
+
+
+    .content h4 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-top: 10px;
+    }
+
+    .about-img-content {
+        top: 1rem;
+        padding: 1rem 2rem;
+    }
+
+    .about-us::after {
+        bottom: -32%;
+
+    }
+
+    .about-us:before {
+
+        bottom: -32%;
+    }
+
+    .services-boxs {
+        margin-right: 0;
+    }
+
+    .services-imges-content {
+        left: 10px;
+    }
+
+    section.services-sec:after {
+        width: 142px;
+        bottom: 40px;
+    }
+
+
+
+
+
+    .contat-form {
+
+height: 590px;
+
+}
+
+    .footer-logo h3 {
+
+        font-size: 28px;
+    }
+
+
+
+    .about-content {
+        margin-left: 10px;
+        margin-top: 1rem;
+    }
+
+    .services-imges-content:hover .ser-content p {
+        height: 70px;
+        font-size: 13px;
+    }
+
+    .services-imges-content:hover .ser-icons {
+        margin-left: 40px;
+    }
+
+
+
+
+
+    .testimonail-titl h3 {
+        font-size: 20px;
+    }
+
+    .email-sec li a {
+        font-size: 20px;
+
+    }
+
+    .email-sec li p {
+        font-size: 20px;
+
+    }
+
+    .contact-form p {
+
+        font-size: 15px;
+    }
+
+    .contact-img {
+        display: none;
+    }
+
+    .contact-form {
+        margin-top: 23px;
+        margin-left: 30px;
+    }
+
+    .footer-links {
+        margin-bottom: 1.5rem;
+    }
+
+    .header-social {
+
+        gap: 0.4rem;
+
+        justify-content: unset;
+    }
+
+    .world-best-left h4 {
+        font-size: 13px;
+
+    }
+
+    .header-social h5 {
+        font-size: 13px;
+
+    }
+
+    .banner-bg img {
+        width: 100%;
+        height: 400px;
+    }
+
+    .content p {
+        font-size: 14px;
+        margin-top: 1rem;
+    }
+
+    .service-box {
+
+        padding: 0rem 0rem;
+
+        margin-top: 0;
+
+        margin-bottom: 0;
+
+    }
+
+    .main-title h4 {
+        font-size: 54px;
+    }
+
+    .ser-content h5 {
+
+        font-size: 17px;
+
+    }
+
+
+    .main-title {
+
+        padding-bottom: 1rem;
+    }
+
+
+
+
+
+
+
+
+
+    .contact-form-main {
+
+        height: unset;
+
+    }
+
+
+
+    .contact-form h4 {
+        font-size: 44px;
+    }
+
+    .contact-bg {
+
+        padding: 0 30px;
+    }
+
+    .contact-form-main {
+
+        border-radius: 133px 133px 0 0;
+
+    }
+
+    .footer {
+
+padding-top: 5rem;
+
+padding-bottom: 0;
+
+padding-left: 0;
+
+padding-right: 0;
+}
+
+    .footers-logo {
+        margin-bottom: 1.5rem;
+    }
+
+    .footer-logo {
+        margin-bottom: 1rem;
+    }
+
+    .footer-links p {
+        font-size: 14px;
+
+    }
+
+
+    .copy-right-content p {
+
+        text-align: center;
+
+        color: #fff;
+
+    }
+
+    .privacy ul {
+
+        justify-content: space-between;
+    }
+
+    .footer-socil ul {
+
+        justify-content: center;
+    }
+
+    .ser-content {
+
+        height: unset;
+
+    }
+
+    .services-sec {
+
+        height: auto;
+
+    }
+
+    .anlytic {
+
+        margin-right: 0;
+    }
+
+    .about-content:after {
+        top: 30px;
+        height: 35px;
+        background-size: contain;
+    }
+
+    .about-content h5:before {
+        left: -20px;
+        top: -25px;
+        width: 35px;
+        height: 35px;
+        background-size: contain;
+    }
+
+    .service-img img {
+        width: 50%;
+    }
+
+    .service-title h4 {
+        font-size: 20px;
+
+    }
+
+    .services-box {
+        padding: 1rem 0;
+    }
+
+    .about-us {
+        padding: 2rem 0rem;
+    }
+
+    .main-title h4:before,
+    .main-title h4 span:after {
+
+        width: 35px;
+        height: 35px;
+
+        background-size: contain;
+    }
+
+
+
+
+    .publiction-img img {
+        border-radius: 0px !important;
+
+    }
+
+
+
+    .ff-content {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .footer-logo p {
+        color: #d9d9d9;
+        padding: 1rem 0;
+    }
+
+    .academic-main-list li {
+        font-size: 13px;
+
+    }
+
+    .privacy ul li a {
+        color: #fff;
+    }
+
+    .privacy ul {
+        margin-top: 1rem;
+    }
+
+    .copy-right {
+        display: unset;
+        background: none;
+        padding: 1rem 2rem;
+        border-radius: 0px;
+    }
+
+    .copyright {
+        padding: 1rem;
+        border-top: 1px solid #777;
+    }
+
+    .reserach-nbr-3 {
+        margin-left: -15px;
+        left: 68% !important;
+    }
+
+
+
+
+
+    .reserach-nbr-2 {
+        left: 37% !important;
+    }
+
+    .reserach-nbr {
+        position: absolute;
+        top: -73px;
+        left: 45%;
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width: 100px) and (max-width: 640px) {
+    section.explore-chantal .col {
+        flex: 1 0 45%;
+    }
+}
+@media only screen and (min-width: 100px) and (max-width: 500px) {
+    section.explore-chantal .col {
+        flex: 1 0 100%;
+    }
+    section.counter___main {
+       
+        padding: 3rem 0;
+    }
+    .login h4 {
+        font-family: 'Montserrat';
+        font-size: 31px;
+        color: var(--c1);
+        font-weight: 600;
+        padding-bottom: 20px;
+        padding-top: 2rem;
+    }
+    .contact {
+        font-size: 18px;
+    }
+    .why-chapter-content {
+
+        padding-bottom: 3.4rem;
+     
+    }
+    .why-chapter-content h3 {
+        font-size: 37px;
+       
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 375px) {
+    .service-box {
+        padding: 1rem 1rem;
+    }
+    .counter-time h3 span {
+        font-size: 14px;
+    }
+    .counter-time h3 {
+        font-size: 50px;
+    }
+
+    .main-banner-content:after {
+        left: 76%;
+
+    }
+
+    .about-content:after {
+
+        right: 100px;
+
+    }
+
+    .anlytic li p {
+
+        font-size: 12px;
+    }
+
+    .main-title p {
+
+        font-size: 12px;
+    }
+
+
+
+
+
+
+    .testimonail-main-slider {
+        padding-top: 1rem;
+        padding-bottom: 3rem;
+
+    }
+
+    .contact-form h4:after {
+
+        width: 40px;
+        height: 40px;
+        left: 10px;
+
+    }
+
+    .contact-form h4 {
+        font-size: 24px;
+        padding-left: 2rem;
+    }
+
+    .contact-form {
+        margin-top: 23px;
+        margin-left: 0;
+    }
+
+    .privacy ul li:first-child::before {
+
+        top: 7px;
+        right: -22px;
+    }
+
+    .privacy ul li a {
+
+        font-size: 13px;
+    }
+
+    .header-content-top h5 a {
+        font-size: 12px;
+    }
+
+
+}
+
+@media only screen and (min-width: 100px) and (max-width: 300px) {} 
